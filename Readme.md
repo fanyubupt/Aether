@@ -29,7 +29,7 @@ Aether
 │   └── te_env_multitopo.py          # Multi-topology RL environment
 │
 ├── gnnencoder                       # GNN-based feature encoding modules
-│   └── HirachicalGNN.py              # GNN encoder for subgraph-GNN
+│   └── HirachicalGNN.py              
 │
 ├── log                              # Logs generated during execution
 │
