@@ -25,7 +25,7 @@ Aether
 │   ├── experiment_utils.py          # Utilities for running experiments
 │   ├── generatepath_utils.py        # Helper for generating subgraph features
 │   ├── subgraph_generate.py         # Subgraph feature generation script
-│   ├── te_env.py                    # Single-topology RL environment (deprecated)
+│   ├── te_env.py                    # Single-topology RL environment
 │   └── te_env_multitopo.py          # Multi-topology RL environment
 │
 ├── gnnencoder                       # GNN-based feature encoding modules
